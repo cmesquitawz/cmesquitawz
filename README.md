@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! seja bem vindo ao meu perfil! 👋 </h1>
+<h1 align="center"> Olá! seja bem vindo ao meu perfil! <img src="https://i.imgur.com/ZEkFJCG.gif" height="30" width="30" alt="hulkpls" </h1>
 
 <p> 🌱 Estou estudando HTML5, CSS3 and JavaScript </p>
 <p> 📫 Como me contactar: cmesquitawz@gmail.com </p>
