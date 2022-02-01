@@ -1,4 +1,4 @@
-## Olá! seja bem vindo ao meu perfil! 👋
+<h1 align="center"> Olá! seja bem vindo ao meu perfil! 👋 </h1>
 
 - 🌱 Estou estudando HTML5, CSS3 and JavaScript
 - 📫 Como me contactar: cmesquitawz@gmail.com
