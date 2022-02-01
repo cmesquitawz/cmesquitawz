@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! seja bem vindo ao meu perfil! 👋 </h1>
 
-- 🌱 Estou estudando HTML5, CSS3 and JavaScript
-- 📫 Como me contactar: cmesquitawz@gmail.com
+<p> 🌱 Estou estudando HTML5, CSS3 and JavaScript </p>
+<p> 📫 Como me contactar: cmesquitawz@gmail.com </p>
 
 <div align="center" display="flex">
   <a href="https://github.com/cmesquitawz">
