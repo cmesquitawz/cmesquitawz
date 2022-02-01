@@ -3,11 +3,7 @@
 - 🌱 Estou estudando HTML5, CSS3 and JavaScript
 - 📫 Como me contactar: cmesquitawz@gmail.com
 
-body{
-  background-color:white;
-}
-
-<div align="center" display="flex">
+<div align="center" display="flex" background-color"white">
   <a href="https://github.com/cmesquitawz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmesquitawz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmesquitawz&layout=compact&langs_count=7&theme=dracula"/>
