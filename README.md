@@ -1,7 +1,7 @@
 ## Olá! seja bem vindo ao meu perfil! 👋
 
 - 🌱 Estou estudando HTML5, CSS3 and JavaScript
-- 📫 Como me contactar: no meu email, cmesquitawz@gmail.com
+- 📫 Como me contactar: cmesquitawz@gmail.com
 
 <div align="center" display="flex">
   <a href="https://github.com/cmesquitawz">
