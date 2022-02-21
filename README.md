@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://i.imgur.com/ZEkFJCG.gif" height="40" width="40" alt="hulkpls"> Olá! seja bem vindo ao meu perfil! <img src="https://i.imgur.com/ZEkFJCG.gif" height="40" width="40" alt="hulkpls"></h1>
 
 <p> 🌱 Estou estudando HTML5, CSS3 and JavaScript </p>
-<p> 📫 Como me contactar: cmesquitawz@gmail.com </p>
+<p> 📫 Como me contactar: contato.cmesquitawz@gmail.com </p>
 
 <div align="left" display="flex">
   <a href="https://github.com/cmesquitawz">
