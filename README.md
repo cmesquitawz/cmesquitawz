@@ -3,7 +3,7 @@
 
 <p> 🌱 HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT, NODEJS. RESTAPI, SQL, NOSQL</p>
 <p> 🌱 AGILE AND SCRUM</p>
-<p> 🌱 ADVANCED ENGLISH</p>
+<p> 🌱 C2 ADVANCED ENGLISH</p>
 <p> 📫 CONTACT: carlito.elm78@gmail.com </p>
 
 <div align="left" display="flex">
